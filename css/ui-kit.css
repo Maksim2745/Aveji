@@ -10,6 +10,12 @@ body {
     background-color: var(--secondary-c);
 }
 
+main {
+    display: flex;
+    flex-direction: column;
+    gap: 120px;
+}
+
 .container {
     max-width:1340px;
     margin-left: auto;

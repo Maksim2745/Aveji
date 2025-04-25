@@ -1,40 +1,12 @@
 @import url("./reset.css");
 @import url("./ui-kit.css");
 @import url("./header.css");
+@import url("./promo.css");
+@import url("./about.css");
+@import url("./work-steps.css");
+@import url("./reviews.css");
+@import url("./projects.css");
+@import url("./coopiration.css");
+@import url("./footer.css");
 
 
-.promo {
-  display:flex;
-  flex-direction: column;
-  margin-top: 40px;
-}
-.promo__controls {
-  display: flex;
-  justify-content: space-between;
-  align-items: flex-end
-}
-
-.promo__controls__text{
-  max-width: 794px;
-}
-
-.promo__content {
-  display:flex;
-  margin-top: 40px;
-  gap: 253px;
-}
-
-.promo__content__text{
-  max-width: 445px;
-}
-
-.promo__content-left {
-  display:flex;
-  flex-direction: column;
-  gap: 232px;
-}
-
-.promo__content-right{
-  display:flex;
-  
-}

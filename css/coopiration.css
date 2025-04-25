@@ -1,0 +1,27 @@
+.coopiration {
+  display: flex;
+  justify-content: space-between;
+}
+
+.coopiration__form {
+  display: flex;
+  gap: 32px;
+  flex-direction: column;
+  max-width: 678px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 16px ;
+  margin-top: 40px;
+}
+
+.coopiration__form-btn {
+  margin-top: 8px;
+}
+
+.coopiration__form-apps {
+  display: flex;
+  gap : 8px;
+}
